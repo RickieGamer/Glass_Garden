@@ -1,0 +1,179 @@
+{
+  "minecraft": {
+    "version": "1.19.2",
+    "modLoaders": [
+      {
+        "id": "forge-43.2.3",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Glass_Gardens",
+  "version": "0.1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 271009,
+      "fileID": 3833506,
+      "required": true
+    },
+    {
+      "projectID": 381736,
+      "fileID": 3926547,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 4036338,
+      "required": true
+    },
+    {
+      "projectID": 557696,
+      "fileID": 3952368,
+      "required": true
+    },
+    {
+      "projectID": 446691,
+      "fileID": 4166374,
+      "required": true
+    },
+    {
+      "projectID": 301051,
+      "fileID": 3575623,
+      "required": true
+    },
+    {
+      "projectID": 226410,
+      "fileID": 3955047,
+      "required": true
+    },
+    {
+      "projectID": 515708,
+      "fileID": 4031241,
+      "required": true
+    },
+    {
+      "projectID": 230976,
+      "fileID": 3894512,
+      "required": true
+    },
+    {
+      "projectID": 421850,
+      "fileID": 4035002,
+      "required": true
+    },
+    {
+      "projectID": 597824,
+      "fileID": 4100645,
+      "required": true
+    },
+    {
+      "projectID": 243121,
+      "fileID": 4205585,
+      "required": true
+    },
+    {
+      "projectID": 250419,
+      "fileID": 4277356,
+      "required": true
+    },
+    {
+      "projectID": 250363,
+      "fileID": 4100299,
+      "required": true
+    },
+    {
+      "projectID": 606618,
+      "fileID": 4061829,
+      "required": true
+    },
+    {
+      "projectID": 225643,
+      "fileID": 4161114,
+      "required": true
+    },
+    {
+      "projectID": 232502,
+      "fileID": 4161102,
+      "required": true
+    },
+    {
+      "projectID": 382216,
+      "fileID": 4019850,
+      "required": true
+    },
+    {
+      "projectID": 306770,
+      "fileID": 4031402,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050343,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3871353,
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 3924518,
+      "required": true
+    },
+    {
+      "projectID": 412525,
+      "fileID": 3955287,
+      "required": true
+    },
+    {
+      "projectID": 635427,
+      "fileID": 3909789,
+      "required": true
+    },
+    {
+      "projectID": 331936,
+      "fileID": 4132623,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4239206,
+      "required": true
+    },
+    {
+      "projectID": 531761,
+      "fileID": 3914527,
+      "required": true
+    },
+    {
+      "projectID": 417802,
+      "fileID": 4297481,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 4279290,
+      "required": true
+    },
+    {
+      "projectID": 228525,
+      "fileID": 4153136,
+      "required": true
+    },
+    {
+      "projectID": 621448,
+      "fileID": 4120097,
+      "required": true
+    },
+    {
+      "projectID": 492246,
+      "fileID": 3943055,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
