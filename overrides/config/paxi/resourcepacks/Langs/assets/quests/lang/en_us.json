@@ -1,0 +1,14 @@
+{
+    "quest.root": "Quests",
+    "quest.stone": "Building blocks \n Reward: 16 Pebbles",
+    "quest.sapling": "Saplings",
+    "quest.sapling.desc": "Now we wait \n Reward: Sapling",
+    "quest.apothecary": "Flower Crafting",
+    "quest.apothecary.desc": "Getting started with Botania \n Reward: 5 Seeds",
+    "quest.floral": "Growing Flowers",
+    "quest.floral.desc": "Use floral fertilizer to grow some flowers",
+    "quest.orechid": "Gold from a stone",
+    "quest.orechid.desc": "Use your new flower to make ore \n Reward: 32 Stone",
+    "quest.rod": "Free dirt? Almost",
+    "quest.rod.desc": "Make a Rod of the Lands\nSkyblocker's friend"
+}

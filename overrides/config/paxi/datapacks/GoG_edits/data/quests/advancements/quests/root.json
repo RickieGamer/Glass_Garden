@@ -1,0 +1,40 @@
+{
+  "criteria": {
+    "pebble": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["botania:pebble"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "quark:textures/block/cobblestone_bricks.png",
+    "description": {
+      "translate": "quest.stone"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "botania:pebble"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "quest.root"
+    }
+  },
+  "requirements": [
+    [
+      "pebble"
+    ]
+  ],
+  "rewards": {
+      "loot": [
+        "quests:pebbles"
+        ]
+    }
+}

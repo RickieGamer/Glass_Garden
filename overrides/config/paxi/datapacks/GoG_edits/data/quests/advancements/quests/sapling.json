@@ -1,0 +1,40 @@
+{
+  "parent": "quests:quests/root",
+  "criteria": {
+    "sapling": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:oak_sapling"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "quest.sapling.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:oak_sapling"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "quest.sapling"
+    }
+  },
+  "requirements": [
+    [
+      "sapling"
+    ]
+  ],
+  "rewards": {
+      "loot": [
+        "minecraft:chests/oak_sapling"
+        ]
+    }
+}

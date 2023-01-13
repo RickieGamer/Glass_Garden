@@ -1,0 +1,35 @@
+{
+  "parent": "quests:quests/orechid",
+  "criteria": {
+    "rod": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["botania:dirt_rod"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "quest.rod.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "botania:dirt_rod"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "quest.rod"
+    }
+  },
+  "requirements": [
+    [
+      "rod"
+    ]
+  ]
+}

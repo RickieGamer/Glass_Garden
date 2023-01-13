@@ -1,0 +1,35 @@
+{
+  "parent": "quests:quests/sapling",
+  "criteria": {
+    "floral": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["botania:fertilizer"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "quest.floral.desc"
+    },
+    "frame": "goal",
+    "hidden": false,
+    "icon": {
+      "item": "botania:fertilizer"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "quest.floral"
+    }
+  },
+  "requirements": [
+    [
+      "floral"
+    ]
+  ]
+}
