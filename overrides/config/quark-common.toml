@@ -1164,8 +1164,8 @@
 			[mobs.wraith.spawn_config.biomes]
 
 				[mobs.wraith.spawn_config.biomes.tags]
-					"Biome Tags" = []
-					"Is Blacklist" = true
+					"Biome Tags" = ["minecraft:is_nether"]
+					"Is Blacklist" = false
 
 				[mobs.wraith.spawn_config.biomes.biomes]
 					Biomes = []
