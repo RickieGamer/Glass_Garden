@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "projecte:dark_matter"
+    },
+    "D": {
+      "item": "minecraft:netherite_helmet"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SDS"
+  ],
+  "result": {
+    "item": "projecte:dm_helmet"
+  }
+}

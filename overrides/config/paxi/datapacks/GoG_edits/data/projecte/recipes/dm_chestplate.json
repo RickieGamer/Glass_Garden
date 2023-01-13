@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "projecte:dark_matter"
+    },
+    "D": {
+      "item": "minecraft:netherite_chestplate"
+    }
+  },
+  "pattern": [
+    "SDS",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "item": "projecte:dm_chestplate"
+  }
+}

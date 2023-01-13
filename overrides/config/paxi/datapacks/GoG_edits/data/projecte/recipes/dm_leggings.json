@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "projecte:dark_matter"
+    },
+    "D": {
+      "item": "minecraft:netherite_leggings"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SDS",
+    "S S"
+  ],
+  "result": {
+    "item": "projecte:dm_leggings"
+  }
+}
