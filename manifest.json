@@ -10,18 +10,13 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Glass_Gardens",
-  "version": "0.1",
+  "name": "Garden of Glass",
+  "version": "0.1.1",
   "author": "",
   "files": [
     {
       "projectID": 271009,
       "fileID": 3833506,
-      "required": true
-    },
-    {
-      "projectID": 381736,
-      "fileID": 3926547,
       "required": true
     },
     {
@@ -32,6 +27,16 @@
     {
       "projectID": 557696,
       "fileID": 3952368,
+      "required": true
+    },
+    {
+      "projectID": 382216,
+      "fileID": 4019850,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 3940452,
       "required": true
     },
     {
@@ -100,13 +105,18 @@
       "required": true
     },
     {
-      "projectID": 382216,
-      "fileID": 4019850,
+      "projectID": 306549,
+      "fileID": 3976082,
       "required": true
     },
     {
       "projectID": 306770,
       "fileID": 4031402,
+      "required": true
+    },
+    {
+      "projectID": 381736,
+      "fileID": 3926547,
       "required": true
     },
     {
