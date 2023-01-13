@@ -1,0 +1,36 @@
+{
+  "type": "botania:terra_plate",
+  "ingredients": [
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:dark_matter"
+    },
+    {
+      "item": "projecte:dark_matter"
+    },
+    {
+      "item": "projecte:dark_matter"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    }
+  ],
+  "mana": 1000000,
+  "result": {
+    "item": "projecte:red_matter"
+  }
+}

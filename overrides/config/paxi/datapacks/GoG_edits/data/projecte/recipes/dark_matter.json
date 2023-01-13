@@ -1,0 +1,57 @@
+{
+  "type": "botania:terra_plate",
+  "ingredients": [
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "tag": "forge:gems/diamond"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    },
+    {
+      "item": "projecte:aeternalis_fuel"
+    }
+  ],
+  "mana": 500000,
+  "result": {
+    "item": "projecte:dark_matter"
+  }
+}
