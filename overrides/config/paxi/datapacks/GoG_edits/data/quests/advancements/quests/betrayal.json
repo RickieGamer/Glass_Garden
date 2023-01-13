@@ -1,0 +1,35 @@
+{
+  "parent": "quests:quests/floral",
+  "criteria": {
+    "heart": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["quark:diamond_heart"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "quest.stoneling.desc"
+    },
+    "frame": "task",
+    "hidden": true,
+    "icon": {
+      "item": "quark:diamond_heart"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "quest.stoneling"
+    }
+  },
+  "requirements": [
+    [
+      "heart"
+    ]
+  ]
+}
