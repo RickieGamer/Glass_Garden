@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "projecte:philosophers_stone",
+    "key": {
+        "D": {
+            "tag": "botania:dragonstone_gems"
+        },
+        "G": {
+            "tag": "forge:dusts/glowstone"
+        },
+        "R": {
+            "tag": "forge:dusts/redstone"
+        },
+        "B": {
+            "item": "minecraft:blaze_powder"
+        },
+        "A": {
+            "item": "botania:alchemy_catalyst"
+        }
+    },
+    "pattern": [
+        "GRG",
+        "RDR",
+        "BAB"
+    ],
+    "result": {
+        "item": "projecte:philosophers_stone"
+    }
+}
