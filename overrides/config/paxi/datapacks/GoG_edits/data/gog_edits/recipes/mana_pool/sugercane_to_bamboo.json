@@ -4,12 +4,12 @@
     "type": "block",
     "block": "botania:alchemy_catalyst"
   },
-  "group": "gog_edits:mushroom",
+  "group": "gog_edits:bamboocane",
   "input": {
-    "item": "minecraft:red_mushroom"
+    "item": "minecraft:sugar_cane"
   },
   "mana": 240,
   "output": {
-    "item": "minecraft:brown_mushroom"
+    "item": "minecraft:bamboo"
   }
 }

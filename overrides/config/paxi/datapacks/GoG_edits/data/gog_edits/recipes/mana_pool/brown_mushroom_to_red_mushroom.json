@@ -4,6 +4,7 @@
     "type": "block",
     "block": "botania:alchemy_catalyst"
   },
+  "group": "gog_edits:mushroom",
   "input": {
     "item": "minecraft:brown_mushroom"
   },
