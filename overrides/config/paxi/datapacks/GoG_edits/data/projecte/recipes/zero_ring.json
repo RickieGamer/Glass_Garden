@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:snowball"
+        },
+        "I": {
+            "item": "projecte:iron_band"
+        },
+        "M": {
+            "item": "projecte:dark_matter"
+        },
+        "S": {
+            "item": "minecraft:snow_block"
+        },
+        "R": {
+            "item": "botania:rune_water"
+        }
+    },
+    "pattern": [
+        "RBS",
+        "MIM",
+        "SBR"
+    ],
+    "result": {
+        "item": "projecte:zero_ring"
+    }
+}

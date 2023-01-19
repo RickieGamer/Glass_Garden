@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": {
+            "item": "projecte:dark_matter"
+        },
+        "F": {
+            "item": "minecraft:flint_and_steel"
+        },
+        "I": {
+            "item": "projecte:iron_band"
+        },
+        "M": {
+            "item": "projecte:mobius_fuel"
+        },
+        "R": {
+            "item": "botania:rune_fire"
+        }
+    },
+    "pattern": [
+        "RMF",
+        "DID",
+        "FMR"
+    ],
+    "result": {
+        "item": "projecte:ignition_ring"
+    }
+}
