@@ -1,11 +1,11 @@
 {
-  "parent": "quests:quests/runic_altar",
+  "parent": "quests:quests/apothecary",
   "criteria": {
-    "rod": {
+    "flower": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:bellethorn"]
           }
         ]
       },
@@ -15,21 +15,24 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.bellethorn.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:bellethorn"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.bellethorn"
     }
   },
   "requirements": [
     [
-      "rod"
+      "flower"
     ]
-  ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
 }

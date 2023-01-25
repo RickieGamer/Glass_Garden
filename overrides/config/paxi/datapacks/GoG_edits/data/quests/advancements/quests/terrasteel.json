@@ -1,11 +1,11 @@
 {
-  "parent": "quests:quests/runic_altar",
+  "parent": "quests:quests/terra_plate",
   "criteria": {
-    "rod": {
+    "plate": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:terrasteel_ingot"]
           }
         ]
       },
@@ -15,21 +15,21 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.terrasteel.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:terrasteel_ingot"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.terrasteel"
     }
   },
   "requirements": [
     [
-      "rod"
+      "plate"
     ]
   ]
 }

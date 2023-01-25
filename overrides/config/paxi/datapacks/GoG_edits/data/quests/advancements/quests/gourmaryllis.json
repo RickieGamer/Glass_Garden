@@ -1,11 +1,11 @@
 {
   "parent": "quests:quests/runic_altar",
   "criteria": {
-    "rod": {
+    "flower": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:gourmaryllis"]
           }
         ]
       },
@@ -15,21 +15,24 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.gourmaryllis.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:gourmaryllis"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.gourmaryllis"
     }
   },
   "requirements": [
     [
-      "rod"
+      "flower"
     ]
-  ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
 }

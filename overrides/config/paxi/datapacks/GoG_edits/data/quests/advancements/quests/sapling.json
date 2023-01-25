@@ -34,7 +34,7 @@
   ],
   "rewards": {
       "loot": [
-        "minecraft:chests/oak_sapling"
+        "minecraft:blocks/oak_sapling"
         ]
     }
 }

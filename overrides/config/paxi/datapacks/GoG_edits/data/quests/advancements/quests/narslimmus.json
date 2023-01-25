@@ -1,11 +1,11 @@
 {
   "parent": "quests:quests/runic_altar",
   "criteria": {
-    "rod": {
+    "flower": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:narslimmus"]
           }
         ]
       },
@@ -15,21 +15,24 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.narslimmus.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:narslimmus"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.narslimmus"
     }
   },
   "requirements": [
     [
-      "rod"
+      "flower"
     ]
-  ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
 }

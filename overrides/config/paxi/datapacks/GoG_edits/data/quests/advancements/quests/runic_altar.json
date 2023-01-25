@@ -1,11 +1,11 @@
 {
-  "parent": "quests:quests/runic_altar",
+  "parent": "quests:quests/daisy",
   "criteria": {
-    "rod": {
+    "altar": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:runic_altar"]
           }
         ]
       },
@@ -15,21 +15,21 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.runic_altar.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:runic_altar"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.runic_altar"
     }
   },
   "requirements": [
     [
-      "rod"
+      "altar"
     ]
   ]
 }

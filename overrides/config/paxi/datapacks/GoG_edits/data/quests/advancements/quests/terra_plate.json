@@ -1,11 +1,11 @@
 {
   "parent": "quests:quests/runic_altar",
   "criteria": {
-    "rod": {
+    "plate": {
       "conditions": {
         "items": [
           {
-            "items": ["botania:dirt_rod"]
+            "items": ["botania:terra_plate"]
           }
         ]
       },
@@ -15,21 +15,21 @@
   "display": {
     "announce_to_chat": true,
     "description": {
-      "translate": "quest.rod.desc"
+      "translate": "quest.terra_plate.desc"
     },
     "frame": "goal",
     "hidden": false,
     "icon": {
-      "item": "botania:dirt_rod"
+      "item": "botania:terra_plate"
     },
     "show_toast": true,
     "title": {
-      "translate": "quest.rod"
+      "translate": "quest.terra_plate"
     }
   },
   "requirements": [
     [
-      "rod"
+      "plate"
     ]
   ]
 }
